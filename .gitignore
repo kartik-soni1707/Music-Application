@@ -3,4 +3,4 @@ db.sqlite3
 migrations/
 __init__.py
 music_app/frontend/node_modules
-music_app/frontend/static
+*.txt
